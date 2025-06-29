@@ -1,7 +1,7 @@
 # 🎮 Tic Tac Toe Game with ReactJS
 
 ## Description
-This is a **Tic Tac Toe (Caro)** game project built using **ReactJS**, implemented based on a course on **Udemy**.  
+This is a **Tic Tac Toe (Caro)** game project built using **ReactJS**, implemented based on a course on **Udemy** (React - The Complete Guide 2025 (incl. Next.js, Redux).  
 The project was designed to help reinforce fundamental React concepts, including:
 
 - **Component-based architecture**
